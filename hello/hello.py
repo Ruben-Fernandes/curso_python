@@ -1,3 +1,3 @@
-             # Display the plot
+# Display the plot
 print ("Olá Meu Mundo!")
 
