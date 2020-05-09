@@ -55,7 +55,7 @@
   <img src="imagens/entrar_docker.png" width="100%">
 </p>
     
-    - para sair escrevemos na linha de comando ***exit***.
+    - para sair escrevemos na linha de comando ` exit `.
 
 <p align="center">  
     <b>comando: exit</b>
