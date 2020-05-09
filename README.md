@@ -10,8 +10,8 @@
 
 ***Python: Select Interpreter***
 
-<img src="imagens/python_interpreter.png" width="40%">
+<img align="center" src="imagens/python_interpreter.png" width="40%">
 
 ***Agora vamos escolher o interpretador adequado***
 
-<img src="imagens/python_selection.png" width="40%">
+<img align="center" src="imagens/python_selection.png" width="40%">
