@@ -27,7 +27,7 @@
 ###### Alternativa para quem não consegue instalar o python ou não sabe trabalhar com o python na linha de comandos do windows. ***Nota:*** também pode ser instalado por quem conseguiu concluir o processo anterior e quer aprender outras alternativas. Também é importante conseguir instalar o docker para que possamos todos usar os mesmos comandos, independentemente se conseguimos concluir com sucesso ou não o passo anterior.
 
 ## Docker
-- Docker Desktop requires Windows 10 Pro or Enterprise version 15063 to run.
+- IMPORTANTE: Docker Desktop requires Windows 10 Pro or Enterprise version 15063 to run.
 - É necessário instalar a aplicação ***docker*** [aqui](https://www.docker.com/products/docker-desktop). Pode ser necessário fazer um registo, mas é grátis [aqui](https://docker.events.cube365.net/docker/dockercon/).
 - Depois do ***docker*** instalado vamos testá-lo. Na linha de comandos (terminal ou cmd) escrever o seguinte comando: `docker --version `. Se correr tudo bem aparecerá algo do tipo: ```Docker version 19.03.5, build 633a0ea ```.
 - Agora vamos fazer mais um teste. Na linha de comandos escrever: ` docker run hello-world `. Se correr tudo bem, entre outras coisas, aparecerá no terminal: ```Hello from Docker! ```.
