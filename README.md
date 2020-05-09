@@ -41,7 +41,7 @@
   <img src="imagens/preferencias_docker.png" width="60%">
 </p>
 - Agora já podemos começar a usar o docker. Para podermos correr os programas que fazemos temos de entrar no contentor e escrever o comando para correr o nosso programa.
-    - Para entrar no contertor e interagir com ele escrevemos na linha de comandos o seguinte. ***Nota:*** o caminho logo depois do parâmetro -v é o caminho para o nosso código no pc. Que no nosso caso depende do sistema operativo. Assim, cada um terá de ajustar. No caso do windows, e supondo que as pastas criadas foram as aqui sugeridas é: ***c:\programação\curso_python***. No meu caso é: ***/Users/rubenfernandes/programacao/curso_python***. No caso do linux é: ***/home/programacao/curso_python***.
+- Para entrar no contertor e interagir com ele escrevemos na linha de comandos o seguinte. ***Nota:*** o caminho logo depois do parâmetro -v é o caminho para o nosso código no pc. Que no nosso caso depende do sistema operativo. Assim, cada um terá de ajustar. No caso do windows, e supondo que as pastas criadas foram as aqui sugeridas é: ***c:\programação\curso_python***. No meu caso é: ***/Users/rubenfernandes/programacao/curso_python***. No caso do linux é: ***/home/programacao/curso_python***.
     
     ```
     docker run -w /curso_python --rm -it -v /Users/rubenfernandes/programacao/curso_python:/curso_python python /bin/bash 
