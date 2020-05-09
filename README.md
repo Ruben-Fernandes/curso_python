@@ -27,7 +27,7 @@
 ###### Alternativa para quem não consegue instalar o python ou não sabe trabalhar com o python na linha de comandos do windows. ***Nota:*** também pode ser instalado por quem conseguiu concluir o processo anterior e quer aprender outras alternativas. Também é importante conseguir instalar o docker para que possamos todos usar os mesmos comandos, independentemente se conseguimos concluir com sucesso ou não o passo anterior.
 
 ## Docker
-
+- Docker Desktop requires Windows 10 Pro or Enterprise version 15063 to run.
 - É necessário instalar a aplicação ***docker*** [aqui](https://www.docker.com/products/docker-desktop). Pode ser necessário fazer um registo, mas é grátis [aqui](https://docker.events.cube365.net/docker/dockercon/).
 - Depois do ***docker*** instalado vamos testá-lo. Na linha de comandos (terminal ou cmd) escrever o seguinte comando: `docker --version `. Se correr tudo bem aparecerá algo do tipo: ```Docker version 19.03.5, build 633a0ea ```.
 - Agora vamos fazer mais um teste. Na linha de comandos escrever: ` docker run hello-world `. Se correr tudo bem, entre outras coisas, aparecerá no terminal: ```Hello from Docker! ```.
@@ -35,7 +35,7 @@
 - Agora antes de podermos usar o ***docker*** e o ***python*** vamos configurar a pasta onde vamos trabalhar nas preferencias do docker. O docker quando foi instalado adicionou um icon à barra de menus. Clicamos nesse icon e aparece um menu onde vamos escolher preferencias. Aparecerá um janela como a imagem abaixo. Seguindo o esquema da janela da imagem carregamos no sinal **(+)** e vamos até à pasta que escolhemos para trabalhar (que de acordo com o que aqui foi dito é: ` progamação/curso_python `; se for no windows será do tipo: ` c:\programação\curso_python `; Se for linux será do tipo: ` /home/programação/curso_python ` e se for no mac será do tipo: ` /Users/rubenfernandes/programação/curso_python `).
 
 <p align="center">  
-    <b>Docker: preferênciasr</b>
+    <b>Docker: preferências</b>
 </p>
 <p align="center">
   <img src="imagens/preferencias_docker.png" width="60%">
