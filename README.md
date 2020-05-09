@@ -31,4 +31,4 @@
 - É necessário instalar a aplicação ***docker*** [aqui](https://www.docker.com/products/docker-desktop). Pode ser necessário fazer um registo, mas é grátis [aqui](https://docker.events.cube365.net/docker/dockercon/).
 - Depois do ***docker*** instalado vamos testá-lo. Na linha de comandos (terminal ou cmd) escrever o seguinte comando: ***docker --version***. Se correr tudo bem aparecerá algo do tipo: ***Docker version 19.03.5, build 633a0ea***.
 - Agora vamos fazer mais um teste. Na linha de comandos escrever: ***docker run hello-world***. Se correr tudo bem, entre outras coisas, aparecerá no terminal: ***Hello from Docker!***.
-
+- Vamos agora instalar o python na aplicação docker para podermos trabalhar. Para tal escrever o seguinte na linha de comandos: ***docker pull python**
