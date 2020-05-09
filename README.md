@@ -15,7 +15,9 @@
   <img src="imagens/python_interpreter.png" width="40%">
 </p>
 
-***Agora vamos escolher o interpretador adequado***
+<p align="center">  
+    Agora vamos escolher o interpretador adequado
+</p>
 <p align="center">
   <img src="imagens/python_selection.png" width="40%">
 </p>
