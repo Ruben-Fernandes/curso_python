@@ -24,7 +24,9 @@
 
 
 # Contentores
-###### Alternativa para quem não consegue instalar o python ou não sabe trabalhar com a linha de comandos do windows. **Nota:** também pode ser instalado por quem consegui concluir o processo anterior.
+###### Alternativa para quem não consegue instalar o python ou não sabe trabalhar com o python na linha de comandos do windows. **Nota:** também pode ser instalado por quem consegui concluir o processo anterior.
 
 ## Docker
 
+- É necessário instalar a aplicação ***docker*** [aqui](https://www.docker.com/products/docker-desktop). Pode ser necessário fazer um registo, mas é grátis [aqui](https://docker.events.cube365.net/docker/dockercon/).
+- 
