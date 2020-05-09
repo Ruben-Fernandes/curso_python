@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">  
-    Agora vamos escolher o interpretador adequado
+    <b>Agora vamos escolher o interpretador adequado</b>
 </p>
 <p align="center">
   <img src="imagens/python_selection.png" width="40%">
