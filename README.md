@@ -9,6 +9,9 @@
 - No *visual studio code* é necessário selecionar qual o interpretador de *python* a usar. Para isso vamos ao menu *View* e selecionamos o submenu *Command Palette*, vai aparecer um caixa com o símbolo > e o cursor a piscar. Escrevemos nessa caixa ***Python: Select Interpreter*** de seguida escolhemos a versão do python que queremos, no nosso caso pode ser a versão 3.8, mas outra versão acima de 3.0 pode ser.
 
 ***Python: Select Interpreter***
+
 <img src="imagens/python_interpreter.png" width="40%">
+
 ***Agora vamos escolher o interpretador adequado***
+
 <img src="imagens/python_selection.png" width="40%">
