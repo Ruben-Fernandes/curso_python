@@ -5,6 +5,7 @@
 *.code-workspace
 
 .venv/
+.devcontainer/
 
 # Local History for Visual Studio Code
 .history/
