@@ -29,4 +29,4 @@
 ## Docker
 
 - É necessário instalar a aplicação ***docker*** [aqui](https://www.docker.com/products/docker-desktop). Pode ser necessário fazer um registo, mas é grátis [aqui](https://docker.events.cube365.net/docker/dockercon/).
-- 
+- Depois do ***docker*** instalado vamos testá-lo. Na linha de comandos (terminal ou cmd) escrever o seguinte comando: ***docker --version***. Se correr tudo bem aparecerá algo do tipo: ***Docker version 19.03.5, build 633a0ea***
