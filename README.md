@@ -38,5 +38,5 @@
     <b>Docker: preferênciasr</b>
 </p>
 <p align="center">
-  <img src="imagens/preferencias_docker.png" width="40%">
+  <img src="imagens/preferencias_docker.png" width="60%">
 </p>
