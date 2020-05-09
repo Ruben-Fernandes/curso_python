@@ -45,6 +45,7 @@
 
     - Para entrar no contertor e interagir com ele escrevemos na linha de comandos o código abaixo indicado. ***Nota:*** o caminho logo depois do parâmetro -v é o caminho para o nosso código no pc. Que no nosso caso depende do sistema operativo. Assim, cada um terá de ajustar. No caso do windows, e supondo que as pastas criadas foram as aqui sugeridas é: ***c:\programação\curso_python***. No meu caso é: ***/Users/rubenfernandes/programacao/curso_python***. No caso do linux é: ***/home/programacao/curso_python***.
     
+    
     ```
     docker run -w /curso_python --rm -it -v /Users/rubenfernandes/programacao/curso_python:/curso_python python /bin/bash 
     ```
@@ -55,8 +56,9 @@
     <p align="center">
       <img src="imagens/entrar_docker.png" width="100%">
     </p>
+    
     <p align="center">  
-      <b>comando: dentro do docker</b>
+      <b>dentro do docker</b>
     </p>
     <p align="center">
       <img src="imagens/no docker.png" width="100%">
@@ -64,9 +66,6 @@
     
     - para sair escrevemos na linha de comando ` exit `.
 
-<p align="center">  
-    <b>comando: exit</b>
-</p>
 <p align="center">
   <img src="imagens/sair docker.png" width="100%">
 </p>
