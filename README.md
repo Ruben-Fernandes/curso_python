@@ -24,6 +24,7 @@
 
 
 # Contentores
-###### Alternativa para quem não consegue instalar o python ou não sabe trabalhar com a linha de comandos do windows
+###### Alternativa para quem não consegue instalar o python ou não sabe trabalhar com a linha de comandos do windows. **Nota:** também pode ser instalado por quem consegui concluir o processo anterior.
 
-##
+## Docker
+
