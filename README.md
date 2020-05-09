@@ -43,5 +43,6 @@
 - Agora já podemos começar a usar o docker. Para podermos correr os programas que fazemos temos de entrar no contentor e escrever o comando para correr o nosso programa.
     - Para entrar no contertor e interagir com ele escrevemos na linha de comandos o seguinte: 
     
-    ***docker run -w /curso_python/hello --rm -it -v /Users/rubenfernandes/programacao/curso_python:/curso_python python /bin/bash*** 
+    """docker run -w /curso_python/hello --rm -it -v /Users/rubenfernandes/programacao/curso_python:/curso_python python /bin/bash 
+    """  
     
