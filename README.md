@@ -48,11 +48,18 @@
     ```
     docker run -w /curso_python --rm -it -v /Users/rubenfernandes/programacao/curso_python:/curso_python python /bin/bash 
     ```
+<p align="center">  
+  <b>comando: docker run</b>
+</p>
+<p align="center">
+  <img src="imagens/entrar_docker.png" width="100%">
+</p>
+    
     - para sair escrevemos na linha de comando ***exit***.
 
 <p align="center">  
-    <b>comando exit</b>
+    <b>comando: exit</b>
 </p>
 <p align="center">
-  <img src="imagens/sair docker.png" width="60%">
+  <img src="imagens/sair docker.png" width="100%">
 </p>
