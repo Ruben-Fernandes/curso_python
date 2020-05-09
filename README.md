@@ -54,8 +54,15 @@
 <p align="center">
   <img src="imagens/entrar_docker.png" width="100%">
 </p>
+
+<p align="center">  
+  <b>comando: dentro do docker</b>
+</p>
+<p align="center">
+  <img src="imagens/no docker.png" width="100%">
+</p>
     
-    - para sair escrevemos na linha de comando ` exit `.
+  - para sair escrevemos na linha de comando ` exit `.
 
 <p align="center">  
     <b>comando: exit</b>
