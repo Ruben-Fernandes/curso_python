@@ -2,6 +2,6 @@
 # Display the plot
 print ("Olá Meu Mundo!")
 #quit()
-nome = input("Qual o teu nome \n")
-print ("tchau " + nome)
+#nome = input("Qual o teu nome \n")
+#print ("tchau " + nome)
 
